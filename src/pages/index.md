@@ -7,7 +7,7 @@ sections:
     content: >-
       Remote Think was created to help you make the move to remote working. Dive
       in to get started.
-    image: images/hero.png
+    image: /images/laptop-2298286_1280-1-.png
     actions:
       - label: Start Here
         url: /features
