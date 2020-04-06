@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: Your guide to going remote
+    title: Your guide to going Remote
     content: >-
-      Remote think was created to help you make the move to remote working. Dive
+      Remote Think was created to help you make the move to remote working. Dive
       in to get started.
     image: images/hero.png
     actions:
