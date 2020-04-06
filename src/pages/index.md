@@ -3,13 +3,13 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Your guide to going remote
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Remote think was created to help you make the move to remote working. Dive
+      in to get started.
     image: images/hero.png
     actions:
-      - label: Learn More
+      - label: Start Here
         url: /features
   - type: section_features
     section_id: features
