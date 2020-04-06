@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Remote Think",
-    "logo_img": "/images/group-1-6-.png",
+    "logo_img": "/images/remote_logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Connect",
     "tagline": "Helping you to embrace Remote Working",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/remote_logo.png",
     "has_social": true,
     "content": "&copy; Remote Think. All rights reserved.",
     "links": [
