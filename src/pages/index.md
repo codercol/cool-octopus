@@ -13,20 +13,17 @@ sections:
         url: /features
   - type: section_features
     section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Resources
+    subtitle: Take some time to explore the resources we have put together for you
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Make the leap to Remote
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          Remote Think: Making the leap to Remote work is the essential guide to
+          getting started in world of remote work. Grab a copy today
+        image: /images/ebook.png
         actions:
-          - label: Learn More
+          - label: Get the Book
             url: /features
       - title: Awesome Feature of Your Services
         content: >-
