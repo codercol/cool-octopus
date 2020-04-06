@@ -21,7 +21,7 @@ sections:
         content: >-
           Remote Think: Making the leap to Remote work is the essential guide to
           getting started in world of remote work. Grab a copy today
-        image: /images/ebooknew.png
+        image: /images/ebook.png
         actions:
           - label: Get the Book
             url: /features
