@@ -1,5 +1,5 @@
 ---
-title: Features
+title: The Book
 sections:
   - type: section_content
     section_id: features
@@ -22,9 +22,7 @@ sections:
     image: /images/ebook.png
     bg: gray
     actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
+      - label: Get the Book
         url: '#'
   - type: section_cta
     section_id: call-to-action
